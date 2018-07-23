@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="100% Vida">
+    <display-name lang="pt">100% Vida</display-name>
+    <icon src="http://www.lineup.tv.br/canais/tvobrac.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="1001 Noites">
+    <display-name lang="pt">1001 Noites</display-name>
+    <icon src="http://www.lineup.tv.br/canais/tvdiarioam.gif|http://www.lineup.tv.br/canais/recordnews.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="3ª Via TV">
+    <display-name lang="pt">3ª Via TV</display-name>
+    <icon src="http://www.lineup.tv.br/canais/tvaripuana.gif|http://www.lineup.tv.br/canais/recordtv.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="A&amp;E">
+    <display-name lang="pt">A&amp;E</display-name>
+    <icon src="http://www.lineup.tv.br/canais/romanews.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Agro Canal">
+    <display-name lang="pt">Agro Canal</display-name>
+    <icon src="http://www.lineup.tv.br/canais/fctv.gif|http://www.lineup.tv.br/canais/sbt.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="AgroBrasil TV">
+    <display-name lang="pt">AgroBrasil TV</display-name>
+    <icon src="http://www.lineup.tv.br/canais/tvpioxii.gif|http://www.lineup.tv.br/canais/redemeionorte.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="AmazonSat">
+    <display-name lang="pt">AmazonSat</display-name>
+    <icon src="http://www.lineup.tv.br/canais/redeamazonica.gif|http://www.lineup.tv.br/canais/globo.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+</tv>
